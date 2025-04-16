@@ -1,0 +1,30 @@
+---
+title: "U.S. Border Crossings Analysis"
+format: html
+editor: visual
+---
+
+# Introduction
+
+Brief overview of the dataset and project goals.
+
+# Temporal Trends and Major Events (J)
+
+-   Describe overall crossing trends over time
+-   Visualize seasonal or yearly patterns
+-   Analyze impact of major events (e.g., 9/11, COVID)
+
+# Regional and Port-Level Patterns (B)
+
+-   Identify high/low traffic states and ports
+-   Compare regional differences
+-   Look for shifts tied to policy changes
+
+# Crossing Type and Prediction (BMc)
+
+-   Explore traffic by crossing type (truck, train, pedestrian, etc.)
+-   Optional: clustering or time-series forecasting
+
+# Conclusion
+
+Summarize key findings, reflect on limitations, and propose future directions.
