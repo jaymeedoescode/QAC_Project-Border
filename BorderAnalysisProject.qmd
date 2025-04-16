@@ -6,25 +6,53 @@ editor: visual
 
 # Introduction
 
-Brief overview of the dataset and project goals.
+**Core Research Question:**\
+How have U.S. border crossings with Canada and Mexico evolved over time, and what do these patterns reveal about regional, economic, and policy-driven influences on cross-border mobility?
 
-# Temporal Trends and Major Events (J)
+**Sub-Questions:** 1. How have crossing volumes changed from 1996 to the present across both borders? 2. Are there consistent seasonal or yearly trends? 3. Which states or specific ports account for the highest and lowest volumes? 4. Are certain regions more sensitive to changes than others, such as border tightening or travel bans? 5. How do crossing patterns differ by type (e.g., truck, rail, pedestrian, personal vehicle)? 6. What impact did specific nationwide or international events (e.g., 9/11, COVID-19, NAFTA revisions) have on crossing patterns? 7. Can we predict future crossing volumes based on historical trends or group ports/regions using clustering?
 
--   Describe overall crossing trends over time
--   Visualize seasonal or yearly patterns
--   Analyze impact of major events (e.g., 9/11, COVID)
+------------------------------------------------------------------------
 
-# Regional and Port-Level Patterns (B)
+# Jaime – Temporal Trends and Event Analysis
 
--   Identify high/low traffic states and ports
--   Compare regional differences
--   Look for shifts tied to policy changes
+*Responsibilities:* - Analyze crossing volumes over time - Explore seasonal or yearly patterns - Investigate alignment with major events (9/11, COVID-19, etc.) - Use time series plots, trends, and event markers
 
-# Crossing Type and Prediction (BMc)
+```{r}
 
--   Explore traffic by crossing type (truck, train, pedestrian, etc.)
--   Optional: clustering or time-series forecasting
+```
+
+Ben Mayer – Regional and Port-Level Analysis
+
+Responsibilities:
+
+Analyze crossing volume by state and port
+
+Identify geographic variation and trends
+
+Compare sensitivity to regional policies or restrictions
+
+Use filtering, grouping, and plotting for geographic comparisons
+
+```{r}
+
+```
+
+# Ben McKinney - Crossing Type and forecasting
+
+Responsibilities:
+
+Analyze patterns by crossing type
+
+Identify how crossing types respond to events
+
+(Optional) Try clustering ports based on traffic behavior
+
+(Optional) Forecast future crossing volumes
+
+```{r}
+
+```
 
 # Conclusion
 
-Summarize key findings, reflect on limitations, and propose future directions.
+Summarize major findings from each section, compare insights across regions/types/time, and reflect on how this connects to broader patterns in mobility and policy.
